@@ -162,10 +162,15 @@ Affinity Propagation chooses the number of clusters automatically by maximizing 
 
 <br><br>
 
+| [Criteria]() | [Supervised Learning]() | [Unsupervised Learning]() |
+| :-- | :-- | :-- |
+| [Labeled data]() | Yes | No |
+| [Tasks]() | Classification, Regression | Clustering, Association |
+| [Example Algorithms]() | Decision Tree, SVM | KMeans, Affinity Propagation |
 
 
 
-
+<br><br>
 
 
 
