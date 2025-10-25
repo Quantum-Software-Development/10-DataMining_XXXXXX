@@ -118,8 +118,27 @@ This repository provides an in-depth review of the [Affinity Propagation Algorit
 
 
 
+<br><br>
 
 
+## [What is the Affinity Propagation Algorithm]() ?
+
+**Affinity Propagation** is a clustering algorithm that identifies exemplars among data points and forms clusters of data points around these exemplars. Unlike algorithms like KMeans, it does not require the number of clusters to be specified beforehand. Instead, it uses the concept of "message passing" between data points to find a number of clusters that best reflects the data structure.
+
+
+<br>
+
+- [**Key steps**]():
+  
+    [-]() Exchanges real-valued messages between data points.
+  
+    [-]() Determines exemplars based on similarities.
+      
+    [-]() Forms clusters around exemplars.
+
+
+
+<br><br>
 
 
 
