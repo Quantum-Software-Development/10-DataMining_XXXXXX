@@ -114,6 +114,7 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 
 
+This repository provides an in-depth review of the [Affinity Propagation Algorithm](https://github.com/Quantum-Software-Development/11-DataMining_Affinity_Propagation_Algorithm/blob/main) as applied in data mining tasks, emphasizing both theory and practical implementation. It is designed as a companion to professional and academic courses focusing on [**unsupervised learning**]() and practical [**clustering**]() methods.
 
 
 
