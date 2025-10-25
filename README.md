@@ -107,7 +107,6 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
     - [Negative Correlation](#negative-correlation)
 - [Affinity Propagation vs. KMeans: Use Case Table](#affinity-propagation-vs-kmeans-use-case-table)
 - [Code Examples: Correlation Matrix with 5 Variables](#code-examples-correlation-matrix-with-5-variables)
-- [Demo Videos](#demo-videos)
 - [References](#references)
 
 
