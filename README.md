@@ -141,10 +141,26 @@ This repository provides an in-depth review of the [Affinity Propagation Algorit
 <br><br>
 
 
+## [How does it differ from other clustering methods]() ?
+
+Affinity Propagation chooses the number of clusters automatically by maximizing a global criterion. KMeans, by contrast, needs a predefined number of clusters.
 
 
+<br><br>
 
 
+## [Unsupervised vs. Supervised Learning]()
+
+[**Unsupervised learning** algorithms are designed to identify patterns or groupings in datasets without labeled responses. The model explores the input data to find structure (like clustering or association).
+
+<br>
+
+- [**Supervised learning**]() uses labeled data to train predictive models for regression or classification.
+
+- [**Unsupervised learning**]() (like Affinity Propagation, KMeans, Hierarchical Clustering) finds patterns without explicit feedback.
+
+
+<br><br>
 
 
 
