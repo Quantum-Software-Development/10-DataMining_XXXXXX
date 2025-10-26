@@ -86,13 +86,15 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 >  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
 >
 >
-
-
+>
+>
+>
+>
 
 <!-- =======================================END DEFAULT HEADER ===========================================  -->
 
 
-<br><br>><br>
+<br><br><br>
 
 
 
@@ -325,32 +327,10 @@ plt.show()
 
 
 
-
-
-
-
-
-
-
-
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <br><br>
 
 
 <!-- ========================== [Bibliographr ====================  -->
-
-<br><br>
 
 
 ## [Bibliography]()
