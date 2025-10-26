@@ -321,8 +321,7 @@ plt.show()
 <br><br>
 
 
-
-
+[**Note:**]() To generate a second plot with the same dataframe but different label (example: "df1 for another experiment"), just change the dataframe and the labels.
 
 
 
