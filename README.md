@@ -185,12 +185,24 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 
 - Close to [**-1**](): sample might have been assigned to the wrong cluster.
 
-  <br>
+<br>
 
-The Silhouette Score \$S\$ for a sample is:
+### The Silhouette Score \$S\$ for a sample is:
 
 
 
+\$ S = \frac{b - a}{\max(a, b)} \$ <br>
+
+
+Where:
+
+
+- \$a\$ = mean intra-cluster distance for a sample (mean distance to all other samples in the same cluster).
+
+- \$b\$ = mean nearest-cluster distance (lowest average distance to samples of another cluster).
+
+
+<br><br>
 
 
 
