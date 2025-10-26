@@ -191,7 +191,7 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 
 
 
-\$ S = \frac{b - a}{\max(a, b)} \$ <br>
+\$S = \frac{b - a}{\max(a, b)}\$ <br>
 
 
 Where:
