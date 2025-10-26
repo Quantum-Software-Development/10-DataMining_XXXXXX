@@ -234,6 +234,7 @@ A **Correlation Matrix** shows the statistical relationship (correlation) betwee
 
 Two variables have [**positive correlation**]() if they increase in tandem.<br>
 
+<br><br>
 
 > [!TIP]
 > 
@@ -241,12 +242,15 @@ Two variables have [**positive correlation**]() if they increase in tandem.<br>
 > 
 
 
-<br>
+<br><br>
 
 
 ### - [*Negative Correlation*]()
 
 [**Negative correlation**]() occurs when one variable increases while the other decreases, in an inversely proportional way.<br>
+
+
+<br><br>
 
 
 > [!TIP]
