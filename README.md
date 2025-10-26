@@ -234,7 +234,11 @@ A **Correlation Matrix** shows the statistical relationship (correlation) betwee
 
 Two variables have [**positive correlation**]() if they increase in tandem.<br>
 
-*Example: Height and weight in humans typically show positive correlation.*
+
+> [!TIP]
+> 
+> [*Example*](): *Height and weight in humans typically show positive correlation.*
+> 
 
 
 <br>
@@ -244,7 +248,12 @@ Two variables have [**positive correlation**]() if they increase in tandem.<br>
 
 [**Negative correlation**]() occurs when one variable increases while the other decreases, in an inversely proportional way.<br>
 
-*Example: The amount of time spent watching TV and academic grades may have a negative correlation.*
+
+> [!TIP]
+> 
+> [*Example*](): *The amount of time spent watching TV and academic grades may have a negative correlation.*
+> 
+
 
 
 <br><br>
