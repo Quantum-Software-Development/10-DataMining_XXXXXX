@@ -208,10 +208,24 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 <br><br>
 
 
+## Correlation Matrix
+
+A **Correlation Matrix** shows the statistical relationship (correlation) between pairs of variables. It helps to identify whether variables move together (correlate) and how strongly.
+
+- **Diagonal values**: always 1 (a variable's correlation with itself).
+
+
+- **Off-diagonal values**: range from -1 to 1.
+    
+    - **1**: Perfect positive correlation.
+   
+    - **0**: No linear correlation.
+    
+    - **-1**: Perfect negative correlation.
 
 
 
-
+<br><br>
 
 
 
