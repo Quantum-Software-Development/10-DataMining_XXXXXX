@@ -216,7 +216,7 @@ A [**Correlation Matrix**]() shows the statistical relationship (correlation) be
 
 <br>
 
-- [**Diagonal values**](): always 1 (a variable's correlation with itself).
+- [**Diagonal values**](): always [1]() (a variable's correlation with itself).
 
   <br>
 
