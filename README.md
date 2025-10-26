@@ -260,12 +260,12 @@ Two variables have [**positive correlation**]() if they increase in tandem.<br>
 
 
 
-<br><br>
+<br><br><br>
 
 
 ## [Affinity Propagation vs. KMeans: Use Case Table]() 
 
-<br>
+<br><br>
 
 | [Feature/Aspect]() | [Affinity Propagation]() | [KMeans]() |
 | :-- | :-- | :-- |
@@ -283,8 +283,11 @@ Two variables have [**positive correlation**]() if they increase in tandem.<br>
 <br><br>
 
 
+## [Code Examples: Correlation Matrix with 5 Variables]()
 
+Below is a Python example to generate a correlation matrix for two different dataframes (df1, df2). To generate two different plots, use `df1` and `df2` as indicated.
 
+<br>
 
 
 
