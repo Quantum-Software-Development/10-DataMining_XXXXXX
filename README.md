@@ -189,7 +189,7 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 
 <br>
 
-#### *The Silhouette Score \$S\$ for a sample is*:
+#### The Silhouette Score \$S\$ for a sample is:
 
 <br>
 
@@ -212,7 +212,7 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 
 ## [Correlation Matrix]() 
 
-A **Correlation Matrix** shows the statistical relationship (correlation) between pairs of variables. It helps to identify whether variables move together (correlate) and how strongly.
+A [**Correlation Matrix**]() shows the statistical relationship (correlation) between pairs of variables. It helps to identify whether variables move together (correlate) and how strongly.
 
 <br>
 
@@ -220,7 +220,7 @@ A **Correlation Matrix** shows the statistical relationship (correlation) betwee
 
   <br>
 
-- [**Off-diagonal values**](): range from -1 to 1.
+- [**Off-diagonal values**](): range from [-1]() to [1]().
     
     - [**1**](): Perfect positive correlation.
    
