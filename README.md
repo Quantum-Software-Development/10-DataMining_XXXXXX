@@ -194,12 +194,12 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 \$S = \frac{b - a}{\max(a, b)}\$ <br>
 
 
-Where:
+[Where]():
 
 
-- \$a\$ = mean intra-cluster distance for a sample (mean distance to all other samples in the same cluster).
+[-]() \$a\$ = mean intra-cluster distance for a sample (mean distance to all other samples in the same cluster).
 
-- \$b\$ = mean nearest-cluster distance (lowest average distance to samples of another cluster).
+[-]() \$b\$ = mean nearest-cluster distance (lowest average distance to samples of another cluster).
 
 
 <br><br>
