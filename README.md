@@ -285,9 +285,43 @@ Two variables have [**positive correlation**]() if they increase in tandem.<br>
 
 ## [Code Examples: Correlation Matrix with 5 Variables]()
 
+<br>
+
 Below is a Python example to generate a correlation matrix for two different dataframes (df1, df2). To generate two different plots, use `df1` and `df2` as indicated.
 
-<br>
+
+<br><br>
+
+
+
+```python
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Example with 5 random variables for df1
+np.random.seed(42)
+df1 = pd.DataFrame(np.random.rand(100, 5), columns=['A', 'B', 'C', 'D', 'E'])
+
+corr_matrix1 = df1.corr()
+sns.heatmap(corr_matrix1, annot=True, cmap='coolwarm')
+plt.title('Correlation Matrix - df1')
+plt.show()
+
+# To generate another correlation matrix for another dataframe df2:
+df2 = pd.DataFrame(np.random.rand(100, 5), columns=['V', 'W', 'X', 'Y', 'Z'])
+
+corr_matrix2 = df2.corr()
+sns.heatmap(corr_matrix2, annot=True, cmap='coolwarm')
+plt.title('Correlation Matrix - df2')
+plt.show()
+```
+
+<br><br>
+
+
+
 
 
 
