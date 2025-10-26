@@ -179,11 +179,11 @@ Affinity Propagation chooses the number of clusters automatically by maximizing 
 
 The [**Silhouette Score**]() evaluates how well an object lies within its cluster compared to other clusters. It ranges from -1 to 1:
 
-- Close to [**1**](): sample is well matched to its own cluster.
+[-]() Close to [**1**](): sample is well matched to its own cluster.
 
-- Close to [**0**](): sample is on or very close to the decision boundary between two clusters.
+[-]() Close to [**0**](): sample is on or very close to the decision boundary between two clusters.
 
-- Close to [**-1**](): sample might have been assigned to the wrong cluster.
+[-]() Close to [**-1**](): sample might have been assigned to the wrong cluster.
 
 <br>
 
@@ -206,6 +206,24 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 
 
 <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
