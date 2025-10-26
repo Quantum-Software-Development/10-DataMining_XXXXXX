@@ -187,7 +187,7 @@ The [**Silhouette Score**]() evaluates how well an object lies within its cluste
 
 <br>
 
-### The Silhouette Score \$S\$ for a sample is:
+#### *The Silhouette Score \$S\$ for a sample is*:
 
 <br>
 
