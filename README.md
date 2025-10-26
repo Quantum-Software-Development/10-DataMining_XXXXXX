@@ -263,6 +263,28 @@ Two variables have [**positive correlation**]() if they increase in tandem.<br>
 <br><br>
 
 
+## [Affinity Propagation vs. KMeans: Use Case Table]()
+
+<br>
+
+| Feature/Aspect | Affinity Propagation | KMeans |
+| :-- | :-- | :-- |
+| Cluster count | Determined automatically | Must be specified |
+| Speed / Scalability | Slower for large datasets | Fast for large datasets |
+| Sensitive to initialization | No | Yes |
+| Suitable for | Arbitrary shaped clusters | Spherical clusters |
+| Handles outliers | Better | Poorly |
+| Core principle | Message Passing | Centroid Minimization |
+| Memory requirement | Higher | Lower |
+| Illustrative use cases | Small/medium data, unknown cluster count | Large data, known K |
+
+
+
+<br><br>
+
+
+
+
 
 
 
